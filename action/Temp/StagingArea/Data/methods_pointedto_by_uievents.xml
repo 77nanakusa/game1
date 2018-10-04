@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="startButton">
+			<method name="startBut"/>
+			<method name="creBut"/>
+			<method name="expBut"/>
+			<method name="menuBut"/>
+			<method name="startBut"/>
+			<method name="menuBut"/>
+			<method name="menuBut"/>
+		</type>
+		<type fullname="pressR">
+			<method name="reset"/>
+			<method name="reset"/>
+		</type>
+	</assembly>
+</linker>
